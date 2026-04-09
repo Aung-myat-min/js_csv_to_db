@@ -2,8 +2,9 @@
   "name": "js_csv_to_db",
   "version": "1.0.0",
   "description": "a tool to load data from csv to db via an api",
-  "main": "index.js",
+  "main": "./src/index.ts",
   "scripts": {
+    "dev": "npx tsc && node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/Aung-myat-min/js_csv_to_db#readme",
   "devDependencies": {
+    "@types/node": "^25.5.2",
     "typescript": "^6.0.2"
   }
 }

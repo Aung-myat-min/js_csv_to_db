@@ -1,6 +1,7 @@
 *.csv
 
 node_modules
+dist
 
 # env files
 .env
