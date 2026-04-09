@@ -1,0 +1,22 @@
+{
+  "name": "js_csv_to_db",
+  "version": "1.0.0",
+  "description": "a tool to load data from csv to db via an api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aung-myat-min/js_csv_to_db.git"
+  },
+  "author": "AMM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aung-myat-min/js_csv_to_db/issues"
+  },
+  "homepage": "https://github.com/Aung-myat-min/js_csv_to_db#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2"
+  }
+}
