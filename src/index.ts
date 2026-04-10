@@ -1,5 +1,3 @@
-function hello() {
-  console.log("Hello!");
-}
+import { hello } from "./hello.js";
 
 hello();
